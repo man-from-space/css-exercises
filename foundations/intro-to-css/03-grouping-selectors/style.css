@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+
+ .buttondark, .buttonyellow {
+    font-family: Helvetica, "New Times Roman", sans-serif;
+    font-size: 28px;
+}
+.buttondark {
+    background-color: black;
+    color: white;
+}    
+.buttonyellow {
+    background-color: yellow
+}
